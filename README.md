@@ -7,5 +7,5 @@ Uso de API http://www.recipepuppy.com/api/
 Uso de SearchBar para resultados automaticos
 
 
-![Screenshot](vista1.png)
-![Screenshot](vista2.png)
+![Screenshot](Vista1.png)
+![Screenshot](Vista2.png)
